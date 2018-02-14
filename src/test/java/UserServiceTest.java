@@ -15,7 +15,7 @@ public class UserServiceTest {
 
     @Test
     public void addUserTest() {
-        User user = new User("1","","",true);
+        User user = new User("1","John","Rambo",true);
         userService.addUser(user);
     }
 

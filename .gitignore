@@ -84,3 +84,4 @@ target/classes/elasticsearch-server.xml
 target/classes/log4j2.xml
 target/test-classes/UserServiceTest.class
 log/CrunchifyTest.log
+.idea/vcs.xml
